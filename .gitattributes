@@ -1,0 +1,14 @@
+# Do not edit manually
+*.ico binary
+src/*.ts linguist-detectable
+
+*.tsx linguist-detectable
+*.png binary
+node_modules/* linguist-vendored
+public/**/*.html linguist-vendored
+
+vendor/* linguist-vendored
+
+*.jpeg binary
+public/*.html linguist-vendored
+# eof c689eb89
